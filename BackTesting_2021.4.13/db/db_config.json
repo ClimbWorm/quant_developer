@@ -1,8 +1,0 @@
-{
-    "driver": "pysql+pymysql",
-    "username": "root",
-    "password": "190124",
-    "host": "localhost",
-    "port": 3306,
-    "database": "backtesting"
-}
