@@ -1,0 +1,10 @@
+.history/*
+*.csv
+*.xml
+*.png
+*.pyc
+
+strategy/tools/backtesting_backup/计算RAR,R_cube,SharpRatio,Robust_Sharp_Ratio.ipynb
+.idea/cta_py.iml
+*-workspace
+.vscode/launch.json

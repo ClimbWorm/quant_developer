@@ -1,0 +1,3 @@
+only_ha_ema_differ 只加了ha的限制条件，没有加rsi限制
+rsi_all_added_ema_differ 添加了ha的限制条件和3个rsi的过滤条件，即60min的rsi，rsi多空头，rsi顶底背离
+

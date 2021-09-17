@@ -1,0 +1,17 @@
+{
+    "tasks" : [
+        {
+            "task_name" : "TestTask",
+            "task_local_path" : "TestTask",
+            "param_seed" : "task.TestTask.param_seed",
+            "py_location": "F:\\pythonHistoricalTesting\\pythonHistoricalTesting\\cta_py\\strategy\\trailing_stop_atr_strategy.py",
+            "additional_param" : [
+                { "int" : 3},
+                { "float" : 3.14}
+            ],
+            "refer_files": [
+                "F:\\pythonHistoricalTesting\\pythonHistoricalTesting\\cta_py\\strategy\\rmt_env.py"
+            ]
+        }
+    ]
+}

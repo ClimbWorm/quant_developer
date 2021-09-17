@@ -1,0 +1,27 @@
+{
+    "services": [
+        {
+            "server_name" : "amd_centos1",
+            "ip" : "192.168.100.226",
+            "port" : 22,
+            "username" : "protondb",
+            "password" : "123",
+            "core_count" : 6,
+            "core_weight" : 100,
+            "work_path" : "/home/Iron_Musk/cta_work/",
+            "keep_recent_work_dir" : 100
+        },
+
+        {
+            "server_name" : "arm_raspberry1",
+            "ip" : "192.168.100.226",
+            "port" : 22,
+            "username" : "protondb",
+            "password" : "123",
+            "core_count" : 4,
+            "core_weight" : 20,
+            "work_path" : "/home/Iron_Musk/cta_work/",
+            "keep_recent_work_dir" : 10
+        }
+    ]
+}

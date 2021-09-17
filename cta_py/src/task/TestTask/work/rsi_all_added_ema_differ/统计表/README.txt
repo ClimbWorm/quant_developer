@@ -1,0 +1,4 @@
+stat_rsi_all_added_ema_differ_with_lots_monthly_adjusted_zero_profit_adjusted.csv 加入手数分布，在计算pnl 的drawdown时添加的限制是 开始计算的时间点从 pnl已经变成本金的1.1倍才开始计算
+
+
+stat_rsi_all_added_ema_differ_with_lots_monthly_adjusted.csv 计算pnl的逻辑时，添加的限制是如果是前10%的交易，不计算drawdown，因为此时profit较小，会计算出较大的drawdown
